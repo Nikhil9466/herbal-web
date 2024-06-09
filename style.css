@@ -1,0 +1,27 @@
+.cards{
+  margin-left: 9%;
+  
+}
+.card:hover{
+  background-color: rgb(242, 233, 233);
+  box-shadow: 0 0 10px rgb(108, 100, 100) ;
+  transform: scale(1.05);
+  transition: transform 0.2s ease-in-out;
+
+}
+.card-title {
+  font-size: 1.25rem;
+}
+.nav-link:hover{
+
+  text-shadow: 0 0 5px rgb(108, 100, 100) ;
+}
+.abody{
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+
+
+}
+.loginbackground{
+ text-shadow: 2px 2px 5px hotpink;
+ 
+}
